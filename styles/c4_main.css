@@ -7,6 +7,8 @@ body {
 /* the styles for the header */
 header img {
 	float: left;
+	font-size: 170%;
+	color: 800000;
 }
 
 /* the styles for the main content */
