@@ -8,11 +8,6 @@ body {
 header img {
 	float: left;
 }
-header h2 {
-		color: red;
-		font-size: 170%;
-		indent: 30px;
-	}
 
 /* the styles for the main content */
 main {
